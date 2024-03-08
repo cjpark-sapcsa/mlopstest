@@ -11,7 +11,7 @@ from sklearn.linear_model import LogisticRegression
 
 # define functions
 def main(args):
-    # TO DO: enable autologging
+    TO DO: enable autologging
 
 
     # read data
